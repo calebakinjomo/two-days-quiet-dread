@@ -3,6 +3,9 @@
 
 Writes one single-line code review comment that approves a pull request
 while carrying quiet existential dread to /output/entry.txt.
+
+Craft note: the dread is quiet — one line, no exclamation, no ellipsis —
+because the scariest approvals are the calm ones.
 """
 import os
 
